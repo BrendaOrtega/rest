@@ -4,7 +4,6 @@
     <list default="true" id="68cdff92-ff34-4bb9-932f-51db96958fdc" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" afterPath="$PROJECT_DIR$/.firebase/hosting.YnVpbGQ.cache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/home/Home.css" afterPath="$PROJECT_DIR$/src/components/home/Home.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/home/Home.js" afterPath="$PROJECT_DIR$/src/components/home/Home.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -59,8 +58,8 @@
       <file leaf-file-name="Home.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/home/Home.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="152">
+              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -369,12 +368,12 @@
       <option name="presentableId" value="Default" />
       <updated>1537907189332</updated>
       <workItem from="1537907192707" duration="12904000" />
-      <workItem from="1537983842064" duration="3352000" />
+      <workItem from="1537983842064" duration="3460000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16256000" />
+    <option name="totallyTimeSpent" value="16364000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="23" width="1240" height="777" extended-state="6" />
@@ -612,8 +611,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/home/Home.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="152">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding />
         </state>
       </provider>
