@@ -16,7 +16,6 @@ class Home extends Component {
                     <video id='bg-video' autoPlay loop  >
                         <source src={video} type="video/mp4" />
                     </video>
-                    <iframe src={video} frameborder="0"></iframe>
                     <div className="uk-position-top"><div className="">
                             <nav className="uk-navbar-container uk-navbar-transparent" uk-navbar>
                                 <div class="uk-navbar-left fl">
