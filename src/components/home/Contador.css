@@ -1,0 +1,53 @@
+.ache{
+    font-family: Raleway;
+
+}
+.ache h2{
+    color: #ccc !important;
+    text-align: center;
+    font-size: 65px !important;
+}
+.count{
+
+    padding: 12px;
+
+
+}
+.signo{
+    color: #ccc !important;
+    font-size: 40px;
+    padding:0;
+    margin: 0;
+}
+.list {
+    font-size: 25px;
+    padding:0px;
+    margin: 0px 0px 5px 0px;
+}
+.number {
+    font-size: 40px;
+    margin: 5px 0;
+}
+.count_data{
+    width: 500px;
+    flex-grow: 1;
+    text-align: center;
+}
+
+.galeria{
+    width: 80%;
+    margin: 50px auto;
+}
+@media(max-width: 440px){
+    .list{
+        font-size: 20px;
+    }
+    .number{
+        font-size: 25px;
+    }
+    .ache{
+        display: none;
+
+
+    }
+}
