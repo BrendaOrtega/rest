@@ -13,7 +13,9 @@ class Home extends Component {
         return (
             <div>
                 <div className="uk-position-relative">
-
+                    <video  className="vidio" src={video} type="video/mp4" width="100%" autoPlay loop >
+                    </video>
+                   
                     <div className="uk-position-top"><div className="">
                             <nav className="uk-navbar-container uk-navbar-transparent" uk-navbar>
                                 <div class="uk-navbar-left fl">
@@ -35,7 +37,6 @@ class Home extends Component {
                             </div>
                         </div>
                     </div>
-                    <video id='bg-video' src={video} autoPlay="autoplay" loop  ></video>
                 </div>
                 <Galeria />
                 <Comments/>
